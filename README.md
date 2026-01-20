@@ -1,3 +1,3 @@
 Created a personal portfolio project.
-Includes my name.
+Included my name.
 Put down a list of skills acquire.
